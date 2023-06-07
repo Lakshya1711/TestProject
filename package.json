@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Lakshya1711/TestProject/issues"
   },
-  "homepage": "https://github.com/Lakshya1711/TestProject#readme"
+  "homepage": "https://github.com/Lakshya1711/TestProject#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
 }
