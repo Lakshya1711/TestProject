@@ -1,0 +1,19 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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1~@github.com/Lakshya1711/TestProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lakshya1711/TestProject/issues"
+  },
+  "homepage": "https://github.com/Lakshya1711/TestProject#readme"
+}
